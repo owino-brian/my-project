@@ -162,6 +162,15 @@ This portfolio was developed to demonstrate a wide range of engineering capabili
 ## Author
 
 **Owino Brian Otieno**
-Researcher | Software Developer | AI Enthusiast | Data Science and Technology Professional
+
+Programmer | Technical Writer | Academic Writer and Author | Software Documentation Specialist & Developer | AI Trainer & Data Analyst.
 
 *Building intelligent systems and immersive experiences through code, mathematics, and design.*
+
+Email: brianowino@gmail.com
+
+GitHub: https://github.com/owino-brian
+
+LinkedIn: https://www.linkedin.com/in/owinobrian/
+
+Sponsor the project: https://github.com/sponsors/owino-brian
