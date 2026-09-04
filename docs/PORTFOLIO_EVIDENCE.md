@@ -100,4 +100,3 @@ I built and committed this program evidence into docs/PORTFOLIO_EVIDENCE.md in t
 
 ---
 
-(Committed to: https://github.com/owino-brian/my-project/blob/main/docs/PORTFOLIO_EVIDENCE.md)
