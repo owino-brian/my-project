@@ -71,7 +71,3 @@ Impact & Outcomes
 - Operational readiness: Graduates routinely met time‑to‑recovery and migration targets in staged exercises.
 - Efficiency gains: Mean time to recovery (MTTR) in simulated incidents improved by ~35% for trained teams.
 - Knowledge capture: Artifacts and rubrics converted tacit knowledge into reproducible documentation used across engineering groups.
-
-—
-
-This file is the finalized, non‑templated case study detailing a real program implementation and its outcomes. All placeholders and meta‑language have been removed.
